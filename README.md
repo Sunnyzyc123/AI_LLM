@@ -1,5 +1,7 @@
 # 本地文档 / 网页 RAG 问答系统
 基于 LangChain 和 Gradio 的检索增强生成（RAG）问答系统，支持上传本地文档或输入网页 URL，使用 DeepSeek 大模型进行智能问答。
+<img width="1870" height="961" alt="c022f0703b795956b9567323fb738666" src="https://github.com/user-attachments/assets/1e0b5cda-f0ca-4ce3-928a-5c1f15188624" />
+<img width="1845" height="868" alt="b0da6c526c1470d278d87cccbadb522c" src="https://github.com/user-attachments/assets/0eb410de-e928-4dba-984f-7fa57e568bb6" />
 
 ## ✨ 特性
 
